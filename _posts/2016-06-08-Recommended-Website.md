@@ -6,14 +6,19 @@ published: false
 
 MKBHD
 https://www.youtube.com/user/marquesbrownlee
+
 Ctrl-Walt-Delete
 https://soundcloud.com/ctrl-walt-delete
+
 a16z Podcast
 http://a16z.com/podcasts/
+
 Re/code Decode
 http://recode.net/podcast/recode-decode-hosted-by-kara-swisher/
+
 What’s Tech
 https://soundcloud.com/whatstech
+
 Techfast Lunch & Dinner
 https://www.youtube.com/user/tldtoday
 
