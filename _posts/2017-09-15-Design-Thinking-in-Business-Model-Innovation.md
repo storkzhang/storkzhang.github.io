@@ -2,11 +2,11 @@
 published: true
 ---
 
-## Design Thinkg in Business Model Innovation
+## Design Thinking in Business Model Innovation
 
 ### Traditional Business Model in Phone Industry
 
-  It's my turn to 
+  It's my turn to introduce how to apply design thinking to business model innovation. We choose two company 
 
   Before we talk about business model of xiaomi, let's 
 
